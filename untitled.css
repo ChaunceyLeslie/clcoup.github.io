@@ -1,0 +1,72 @@
+header{
+      background-color: lightgrey;
+      text-align: center;
+      padding: 20px;
+      margin-bottom: 20px;
+
+}
+nav {
+	background-color: lightgrey;
+      text-align: center;
+      padding: 20px;
+      margin-bottom: 20px;
+
+}
+section{
+	background-color: lightgrey;
+	padding: 20px;
+	text-align: center;
+	width: 45%;
+	height: 180px;
+	margin-bottom: 20px;
+	float: left;
+}
+
+article{
+	background: blue;
+	padding: 10px;
+	height: 120px;
+	clear: both;
+	overflow: auto;
+
+}
+h1{
+	background-color: lightgrey;
+	padding: 5px;
+}
+
+p{ 
+  background-color: lightgrey;
+  padding: 5px;
+
+}
+aside{
+	background-color: lightgrey;
+	padding: 30px;
+	margin-left: 20px;
+	text-align: center;
+	width: 35%;
+	float: right;
+	height: 162px;
+	
+
+
+}
+footer {
+	background-color: green;
+	margin: 40px;
+    padding: 20px;
+    
+    
+
+
+
+
+}
+
+
+
+
+
+
+
